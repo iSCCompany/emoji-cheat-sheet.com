@@ -3,7 +3,6 @@
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
-[Suriyaa Kudo](http://suriyaakudo.bplaced.net/),
 [Basecamp Next](http://37signals.com/basecampnext/),
 [Redbooth](http://redbooth.com/),
 [Plug.dj](http://plug.dj/),
@@ -50,6 +49,7 @@ Do the fork and pull request dance.
 ### Contributors
 
 * [kennethreitz](https://github.com/kennethreitz)
+* [Suriyaa Kudo](http://suriyaakudo.bplaced.net/)
 * [skiz](https://github.com/skiz)
 * [jstorimer](https://github.com/jstorimer)
 * [asianmack](https://github.com/asianmack)
