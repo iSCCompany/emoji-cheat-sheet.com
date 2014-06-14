@@ -3,6 +3,7 @@
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
+[Suriyaa Kudo](http://suriyaakudo.bplaced.net/)
 [Basecamp Next](http://37signals.com/basecampnext/),
 [Redbooth](http://redbooth.com/),
 [Plug.dj](http://plug.dj/),
